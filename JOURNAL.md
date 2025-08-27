@@ -13,7 +13,7 @@ So... uhh... I'm kinda addicted at making random keyboards... now I just need to
 **Time Spent: ~1h**
 
 # August 26, 2026
-Now I need to figure out the hardware that I want to use. I'm thinking of something like a nrf52840 or maybe a rp2040 with a wireless module.
+Now I need to figure out the hardware that I want to use. I'm thinking of something like a nrf52840 or maybe a rp2040 with a wireless module. Likely using MX keyswitches.
 
 
 **Time Spent ~**
