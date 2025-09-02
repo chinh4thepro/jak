@@ -19,6 +19,6 @@ Now I need to figure out the hardware that I want to use. I'm thinking of someth
 **Time Spent ~5min**
 
 # September 2, 2025
-I lowkey forgot to keep working on this lol. I made up my mind, I'll be using a rp2040 with gateron low profile hotswap keyswitches. I might add RGB for fun and maybe do TMR sensors. I however will have change the key layout a bit... or a lot, idk, depends.
+I lowkey forgot to keep working on this lol. I made up my mind, I'll be using a rp2040 with gateron low profile hotswap keyswitches. I might add RGB for fun and maybe do TMR sensors. I however will have change the key layout a bit... or a lot, idk, depends. Either I find a pre-existing bms module or I make my own, and same thing with wireless (I might just steal the pico wireless design lol). An oled display and rotary encoder too.
 
 **Time Spent ~**
