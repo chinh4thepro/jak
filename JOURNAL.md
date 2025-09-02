@@ -12,8 +12,13 @@ So... uhh... I'm kinda addicted at making random keyboards... now I just need to
 
 **Time Spent: ~1h**
 
-# August 26, 2026
+# August 26, 2025
 Now I need to figure out the hardware that I want to use. I'm thinking of something like a nrf52840 or maybe a rp2040 with a wireless module. Likely using MX keyswitches.
 
+
+**Time Spent ~5min**
+
+# September 2, 2025
+I lowkey forgot to keep working on this lol. I made up my mind, I'll be using a rp2040 with gateron low profile hotswap keyswitches. I might add RGB for fun and maybe do TMR sensors. I however will have change the key layout a bit... or a lot, idk, depends.
 
 **Time Spent ~**
